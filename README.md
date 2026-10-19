@@ -31,6 +31,7 @@ Competing in the **IEEE ClimateChain 2026** hackathon with **NaFT**.
 
 ## 🏆 Recognition
 
+- **3rd Place, Free Startup Idea Course**, DREAM JAPAN PROJECT 2026 (organized by Dentsu Social Design Engine / 電通ソデジン; judged by VCs) — for *Mimamori-kun* (見守りくん)
 - **Best Proposal Award**, AgriTech Lab (Tohoku Economic Federation / 東北経済連合会)
 - **Student Finalist, EO North Japan Award**, SPARK!TOHOKU
 - **Finalist**, Iza Kamakura Student Business Contest (いざ鎌倉学生ビジコン)
